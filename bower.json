@@ -1,0 +1,23 @@
+{
+  "name": "beefjs-todo",
+  "version": "0.0.0",
+  "authors": [
+    "Michael Kramer <mkramer@coursehero.com>"
+  ],
+  "description": "BeefJS Todo Tutorial",
+  "license": "MIT",
+  "homepage": "http://www.eatyourvariables.com/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "beefjs": "siosphere/beefjs",
+    "jquery": "~2.2.0",
+    "react": "~0.14.7",
+    "momentjs": "~2.11.2"
+  }
+}
